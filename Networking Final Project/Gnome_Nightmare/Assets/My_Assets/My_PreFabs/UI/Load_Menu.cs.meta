@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d9244c73117fec4695c18f196c2f946
+timeCreated: 1506401915
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Menu_Prefab: {fileID: 1697786590666342, guid: edcde4f9f4a0b244a93c9a3c50ff83e1,
+      type: 2}
+  - Items_Prefab: {fileID: 1567460322035528, guid: a5e2d7ad3f7cea340b0455e5b40a673e,
+      type: 2}
+  - Player_Prefab: {fileID: 1933860058002576, guid: 611c7db145750b345bc06fd6b7d39832,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

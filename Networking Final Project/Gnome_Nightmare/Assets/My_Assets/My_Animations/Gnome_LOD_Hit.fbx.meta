@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 23253e8f58a9f8c4fbb25b9367bf206a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Empty
+    100004: Gnome_LOD0
+    100006: Gnome_LOD1
+    100008: Gnome_LOD2
+    100010: Gnome_LOD3
+    100012: Gnome_LOD4
+    100014: Gnome_LOD5
+    100016: Gnome_LOD6
+    100018: //RootNode
+    100020: Hat
+    100022: Hat_end
+    100024: Head
+    100026: L_Arm
+    100028: L_Arm2
+    100030: L_Hand
+    100032: L_Hand_end
+    100034: L_Shoulder
+    100036: R_Arm
+    100038: R_Arm2
+    100040: R_Hand
+    100042: R_Hand_end
+    100044: R_Shoulder
+    100046: Root
+    400000: Armature
+    400002: Empty
+    400004: Gnome_LOD0
+    400006: Gnome_LOD1
+    400008: Gnome_LOD2
+    400010: Gnome_LOD3
+    400012: Gnome_LOD4
+    400014: Gnome_LOD5
+    400016: Gnome_LOD6
+    400018: //RootNode
+    400020: Hat
+    400022: Hat_end
+    400024: Head
+    400026: L_Arm
+    400028: L_Arm2
+    400030: L_Hand
+    400032: L_Hand_end
+    400034: L_Shoulder
+    400036: R_Arm
+    400038: R_Arm2
+    400040: R_Hand
+    400042: R_Hand_end
+    400044: R_Shoulder
+    400046: Root
+    2100000: Default_01
+    4300000: Gnome_LOD0
+    4300002: Gnome_LOD1
+    4300004: Gnome_LOD2
+    4300006: Gnome_LOD3
+    4300008: Gnome_LOD4
+    4300010: Gnome_LOD5
+    4300012: Gnome_LOD6
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Gnome_LOD0
+    13700002: Gnome_LOD1
+    13700004: Gnome_LOD2
+    13700006: Gnome_LOD3
+    13700008: Gnome_LOD4
+    13700010: Gnome_LOD5
+    13700012: Gnome_LOD6
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.03125
+    - 0.015625
+    - 0.0078125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

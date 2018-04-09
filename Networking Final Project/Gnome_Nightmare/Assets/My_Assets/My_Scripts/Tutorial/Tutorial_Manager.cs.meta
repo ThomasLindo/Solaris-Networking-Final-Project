@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0257143a42680cd4daede3333844de08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HouseFog: {fileID: 1625310770137764, guid: 2e78b6c6134b7eb4da199341b3a36cdb, type: 2}
+  - BunkerFog: {fileID: 1190150055604090, guid: 37036f8c0363b804395234225bbf3380,
+      type: 2}
+  - SpawnManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

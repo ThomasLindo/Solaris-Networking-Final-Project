@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Items_Spawn_Here
+  - Items
+  - MiniMap
+  - Crafting_Table
+  - Drop_Inventory
+  - Item_Inventory
+  - Weapon_Inventory
+  - Check_Tag
+  - Fire_Spawn
+  - Enemy
+  - Enemies_Spawn_Here
+  - Cinemechine_Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Static
+  - Items
+  - Ignore Default
+  - Ignore Bullets
+  - Ignore Invisible Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3299147215
+    locked: 0

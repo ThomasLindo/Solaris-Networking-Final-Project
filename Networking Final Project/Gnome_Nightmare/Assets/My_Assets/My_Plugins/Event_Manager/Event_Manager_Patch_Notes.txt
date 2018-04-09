@@ -1,0 +1,23 @@
+v1.1:
+- destroy function for cleanup
+- transition from strings to char*
+
+v1.2:
+- event manager search function
+- next event round generator which also determines which event index will be selected next and makes sure the same event isn't done twice in a row
+- keep track of the last round an event happened along with get and set functions
+- can store event set names
+- can set and get achievement descriptions
+- new setAchievementStatus to allow index search. old function now called setAchievementStatusSearch
+
+v1.3:
+- set active event function
+- reset event function. now returns if reset was successful
+- check if event is active function
+
+v1.4
+- fixed setEventSetName function bug
+
+v1.5
+- removed while loop in the generateNextEventRound function
+- resetEvent now uses a for loop inside the wrapper rather than recursing through the hierarchy

@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: bffa21d92fc02cd41937207766f3e841
+timeCreated: 1511847010
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: GUN:pCylinder387
+    100004: ikHandle1
+    100006: ikHandle2
+    100008: Jacky_Final:Hairband
+    100010: Jacky_Final:pasted__polySurface1
+    100012: Jacky_Final:pCylinder1
+    100014: Jacky_Final:polySurface2
+    100016: Jacky_Final:polySurface3
+    100018: Jacky_Final:polySurface6
+    100020: Jacky_Final:polySurface8
+    100022: Jacky_Final:pPlane5
+    100024: Jacky_Final:pSphere1
+    100026: Jacky_Final:Skirt
+    100028: Jacky_Final:Sweater
+    100030: //RootNode
+    100032: l_ankle
+    100034: l_clavicle
+    100036: l_elbow
+    100038: l_elbow_ctrl
+    100040: l_foot
+    100042: l_hip
+    100044: l_knee
+    100046: l_middle_a
+    100048: l_middle_b
+    100050: l_middle_c
+    100052: l_middle_d
+    100054: l_middle_e
+    100056: l_pinky_a
+    100058: l_pinky_b
+    100060: l_pinky_c
+    100062: l_pinky_d
+    100064: l_pinky_e
+    100066: l_pointer_a
+    100068: l_pointer_b
+    100070: l_pointer_c
+    100072: l_pointer_d
+    100074: l_pointer_e
+    100076: l_ring_a
+    100078: l_ring_b
+    100080: l_ring_c
+    100082: l_ring_d
+    100084: l_ring_e
+    100086: l_shoulder
+    100088: l_shoulder_ctrl
+    100090: l_thumb_a
+    100092: l_thumb_b
+    100094: l_thumb_c
+    100096: l_thumb_d
+    100098: l_thumb_e
+    100100: l_toes
+    100102: l_wrist
+    100104: l_wrist_ctrl
+    100106: lower_back
+    100108: lower_back_ctrl
+    100110: lower_neck
+    100112: r_ankle
+    100114: r_clavicle
+    100116: r_elbow
+    100118: r_elbow_ctrl
+    100120: r_foot
+    100122: r_hip
+    100124: r_knee
+    100126: r_middle_a
+    100128: r_middle_b
+    100130: r_middle_c
+    100132: r_middle_d
+    100134: r_middle_e
+    100136: r_pinky_a
+    100138: r_pinky_b
+    100140: r_pinky_c
+    100142: r_pinky_d
+    100144: r_pinky_e
+    100146: r_pointer_a
+    100148: r_pointer_b
+    100150: r_pointer_c
+    100152: r_pointer_d
+    100154: r_pointer_e
+    100156: r_ring_a
+    100158: r_ring_b
+    100160: r_ring_c
+    100162: r_ring_d
+    100164: r_ring_e
+    100166: r_shoulder
+    100168: r_shoulder_ctrl
+    100170: r_thumb_a
+    100172: r_thumb_b
+    100174: r_thumb_c
+    100176: r_thumb_d
+    100178: r_thumb_e
+    100180: r_toes
+    100182: r_wrist
+    100184: r_wrist_ctrl
+    100186: root
+    100188: upper_back
+    100190: upper_neck
+    400000: chest
+    400002: GUN:pCylinder387
+    400004: ikHandle1
+    400006: ikHandle2
+    400008: Jacky_Final:Hairband
+    400010: Jacky_Final:pasted__polySurface1
+    400012: Jacky_Final:pCylinder1
+    400014: Jacky_Final:polySurface2
+    400016: Jacky_Final:polySurface3
+    400018: Jacky_Final:polySurface6
+    400020: Jacky_Final:polySurface8
+    400022: Jacky_Final:pPlane5
+    400024: Jacky_Final:pSphere1
+    400026: Jacky_Final:Skirt
+    400028: Jacky_Final:Sweater
+    400030: //RootNode
+    400032: l_ankle
+    400034: l_clavicle
+    400036: l_elbow
+    400038: l_elbow_ctrl
+    400040: l_foot
+    400042: l_hip
+    400044: l_knee
+    400046: l_middle_a
+    400048: l_middle_b
+    400050: l_middle_c
+    400052: l_middle_d
+    400054: l_middle_e
+    400056: l_pinky_a
+    400058: l_pinky_b
+    400060: l_pinky_c
+    400062: l_pinky_d
+    400064: l_pinky_e
+    400066: l_pointer_a
+    400068: l_pointer_b
+    400070: l_pointer_c
+    400072: l_pointer_d
+    400074: l_pointer_e
+    400076: l_ring_a
+    400078: l_ring_b
+    400080: l_ring_c
+    400082: l_ring_d
+    400084: l_ring_e
+    400086: l_shoulder
+    400088: l_shoulder_ctrl
+    400090: l_thumb_a
+    400092: l_thumb_b
+    400094: l_thumb_c
+    400096: l_thumb_d
+    400098: l_thumb_e
+    400100: l_toes
+    400102: l_wrist
+    400104: l_wrist_ctrl
+    400106: lower_back
+    400108: lower_back_ctrl
+    400110: lower_neck
+    400112: r_ankle
+    400114: r_clavicle
+    400116: r_elbow
+    400118: r_elbow_ctrl
+    400120: r_foot
+    400122: r_hip
+    400124: r_knee
+    400126: r_middle_a
+    400128: r_middle_b
+    400130: r_middle_c
+    400132: r_middle_d
+    400134: r_middle_e
+    400136: r_pinky_a
+    400138: r_pinky_b
+    400140: r_pinky_c
+    400142: r_pinky_d
+    400144: r_pinky_e
+    400146: r_pointer_a
+    400148: r_pointer_b
+    400150: r_pointer_c
+    400152: r_pointer_d
+    400154: r_pointer_e
+    400156: r_ring_a
+    400158: r_ring_b
+    400160: r_ring_c
+    400162: r_ring_d
+    400164: r_ring_e
+    400166: r_shoulder
+    400168: r_shoulder_ctrl
+    400170: r_thumb_a
+    400172: r_thumb_b
+    400174: r_thumb_c
+    400176: r_thumb_d
+    400178: r_thumb_e
+    400180: r_toes
+    400182: r_wrist
+    400184: r_wrist_ctrl
+    400186: root
+    400188: upper_back
+    400190: upper_neck
+    2300000: GUN:pCylinder387
+    3300000: GUN:pCylinder387
+    4300000: Jacky_Final:Hairband
+    4300002: Jacky_Final:Sweater
+    4300004: Jacky_Final:Skirt
+    4300006: Jacky_Final:polySurface2
+    4300008: Jacky_Final:polySurface6
+    4300010: Jacky_Final:polySurface3
+    4300012: Jacky_Final:polySurface8
+    4300014: Jacky_Final:pSphere1
+    4300016: Jacky_Final:pCylinder1
+    4300018: Jacky_Final:pasted__polySurface1
+    4300020: Jacky_Final:pPlane5
+    4300022: GUN:pCylinder387
+    7400000: Jacky_Walk F
+    9500000: //RootNode
+    13700000: Jacky_Final:Hairband
+    13700002: Jacky_Final:pasted__polySurface1
+    13700004: Jacky_Final:pCylinder1
+    13700006: Jacky_Final:polySurface2
+    13700008: Jacky_Final:polySurface3
+    13700010: Jacky_Final:polySurface6
+    13700012: Jacky_Final:polySurface8
+    13700014: Jacky_Final:pPlane5
+    13700016: Jacky_Final:pSphere1
+    13700018: Jacky_Final:Skirt
+    13700020: Jacky_Final:Sweater
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jacky_Walk F
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: Jacky_Final:Hairband
+        weight: 1
+      - path: Jacky_Final:pasted__polySurface1
+        weight: 1
+      - path: Jacky_Final:pCylinder1
+        weight: 1
+      - path: Jacky_Final:polySurface2
+        weight: 1
+      - path: Jacky_Final:polySurface3
+        weight: 1
+      - path: Jacky_Final:polySurface6
+        weight: 1
+      - path: Jacky_Final:polySurface8
+        weight: 1
+      - path: Jacky_Final:pPlane5
+        weight: 1
+      - path: Jacky_Final:pSphere1
+        weight: 1
+      - path: Jacky_Final:Skirt
+        weight: 1
+      - path: Jacky_Final:Sweater
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/l_hip
+        weight: 1
+      - path: root/l_hip/l_knee
+        weight: 1
+      - path: root/l_hip/l_knee/l_ankle
+        weight: 1
+      - path: root/l_hip/l_knee/l_ankle/l_foot
+        weight: 1
+      - path: root/l_hip/l_knee/l_ankle/l_foot/l_toes
+        weight: 1
+      - path: root/lower_back
+        weight: 1
+      - path: root/lower_back/lower_back_ctrl
+        weight: 1
+      - path: root/lower_back/upper_back
+        weight: 1
+      - path: root/lower_back/upper_back/chest
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_elbow_ctrl
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_middle_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_middle_a/l_middle_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_middle_a/l_middle_b/l_middle_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_middle_a/l_middle_b/l_middle_c/l_middle_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_middle_a/l_middle_b/l_middle_c/l_middle_d/l_middle_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pinky_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pinky_a/l_pinky_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pinky_a/l_pinky_b/l_pinky_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pinky_a/l_pinky_b/l_pinky_c/l_pinky_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pinky_a/l_pinky_b/l_pinky_c/l_pinky_d/l_pinky_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pointer_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pointer_a/l_pointer_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pointer_a/l_pointer_b/l_pointer_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pointer_a/l_pointer_b/l_pointer_c/l_pointer_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_pointer_a/l_pointer_b/l_pointer_c/l_pointer_d/l_pointer_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_ring_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_ring_a/l_ring_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_ring_a/l_ring_b/l_ring_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_ring_a/l_ring_b/l_ring_c/l_ring_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_ring_a/l_ring_b/l_ring_c/l_ring_d/l_ring_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_thumb_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_thumb_a/l_thumb_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_thumb_a/l_thumb_b/l_thumb_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_thumb_a/l_thumb_b/l_thumb_c/l_thumb_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_thumb_a/l_thumb_b/l_thumb_c/l_thumb_d/l_thumb_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_elbow/l_wrist/l_wrist_ctrl
+        weight: 1
+      - path: root/lower_back/upper_back/chest/l_clavicle/l_shoulder/l_shoulder_ctrl
+        weight: 1
+      - path: root/lower_back/upper_back/chest/lower_neck
+        weight: 1
+      - path: root/lower_back/upper_back/chest/lower_neck/upper_neck
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_elbow_ctrl
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_middle_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_middle_a/GUN:pCylinder387
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_middle_a/r_middle_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_middle_a/r_middle_b/r_middle_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_middle_a/r_middle_b/r_middle_c/r_middle_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_middle_a/r_middle_b/r_middle_c/r_middle_d/r_middle_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pinky_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pinky_a/r_pinky_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pinky_a/r_pinky_b/r_pinky_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pinky_a/r_pinky_b/r_pinky_c/r_pinky_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pinky_a/r_pinky_b/r_pinky_c/r_pinky_d/r_pinky_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pointer_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pointer_a/r_pointer_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pointer_a/r_pointer_b/r_pointer_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pointer_a/r_pointer_b/r_pointer_c/r_pointer_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_pointer_a/r_pointer_b/r_pointer_c/r_pointer_d/r_pointer_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_ring_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_ring_a/r_ring_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_ring_a/r_ring_b/r_ring_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_ring_a/r_ring_b/r_ring_c/r_ring_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_ring_a/r_ring_b/r_ring_c/r_ring_d/r_ring_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_thumb_a
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_thumb_a/r_thumb_b
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_thumb_a/r_thumb_b/r_thumb_c
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_thumb_a/r_thumb_b/r_thumb_c/r_thumb_d
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_thumb_a/r_thumb_b/r_thumb_c/r_thumb_d/r_thumb_e
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_elbow/r_wrist/r_wrist_ctrl
+        weight: 1
+      - path: root/lower_back/upper_back/chest/r_clavicle/r_shoulder/r_shoulder_ctrl
+        weight: 1
+      - path: root/r_hip
+        weight: 1
+      - path: root/r_hip/r_knee
+        weight: 1
+      - path: root/r_hip/r_knee/r_ankle
+        weight: 1
+      - path: root/r_hip/r_knee/r_ankle/r_foot
+        weight: 1
+      - path: root/r_hip/r_knee/r_ankle/r_foot/r_toes
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
